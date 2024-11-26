@@ -6,7 +6,8 @@ h1{
     color: black;
     text-align: center;
 }
-nav{
+iframe:hover{
+    opacity:0.5 ;
+}
 
     
-}
